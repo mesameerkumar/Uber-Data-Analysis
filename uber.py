@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import io
 import warnings
 import seaborn as sns
